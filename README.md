@@ -1,6 +1,6 @@
 # Analisa_e_Verifica_Idade 
 [//]: <> ()
-## # Projeto basico que analisa horario atual👈
+## # Projeto basico que verifica a idade👈
 
 ## # Click para ver: <a href='https://joaogabrielz.github.io/Analisa_e_Verifica_Idade/'>Deploy</a> 
 
